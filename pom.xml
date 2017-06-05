@@ -21,6 +21,7 @@
 	<modules>
 		<module>eureka</module>
 		<module>producer</module>
+		<module>consumer</module>
 	</modules>
 	
 	<properties>
