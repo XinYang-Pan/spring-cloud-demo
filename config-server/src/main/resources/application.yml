@@ -9,5 +9,5 @@ spring:
         git:
           uri: https://github.com/XinYang-Pan/spring-cloud-demo.git
           search-paths: config
-          username: seanpan2008@gmail.com
-          password: yang1213
+          username: 
+          password: 
